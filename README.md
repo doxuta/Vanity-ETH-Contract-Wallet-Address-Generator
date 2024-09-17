@@ -110,7 +110,6 @@ Everything is computed locally within your machine. There is no database, no pus
 
 Vanity-ETH-Contract-Address-Generator cannot and will never store your private key, and if you don't trust it, you have 2 ways to ensure your key remains private:
 - After installed via npm or git clone, you can turn off the internet and continue playing, it will work seamlessly
-- The code is 100% open source and [available on Github](https://github.com/TaoistWorld/Vanity-ETH-Contract-Address-Generator). You can review it as much as you want before using it
 
 ##### Remember to remove your secured password after done (you can delete it after process has started)
 
@@ -127,4 +126,4 @@ Contract addr generated when use wallet addr to deploy at given nonce will match
 
 `It is recommended to test transfer & deploy contract using testnets` like [Binance Smart Chain testnet](https://testnet.binance.org/faucet-smart) or [Sokol](https://faucet.poa.network/) `before use`
 
-It would be nice if you can send me a coffee to [taoist-world.eth](https://etherscan.io/address/0xfca11210cc837f37b354d4a3b716316375499999) (or via [BSC](https://bscscan.com/address/0xfcA11210CC837F37b354d4A3b716316375499999) to lower gas fee)
+It would be nice if you can send me a coffee to 0x638c613ccad9160a991ebc6d8a74a23186b4671c (ENS: doxuta)(or via [BSC]0x638c613ccad9160a991ebc6d8a74a23186b4671c (ENS: doxuta) to lower gas fee)
