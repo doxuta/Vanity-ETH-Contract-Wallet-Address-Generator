@@ -126,4 +126,4 @@ Contract addr generated when use wallet addr to deploy at given nonce will match
 
 `It is recommended to test transfer & deploy contract using testnets` like [Binance Smart Chain testnet](https://testnet.binance.org/faucet-smart) or [Sokol](https://faucet.poa.network/) `before use`
 
-It would be nice if you can send me a coffee to 0x638c613ccad9160a991ebc6d8a74a23186b4671c (ENS: doxuta)(or via [BSC]0x638c613ccad9160a991ebc6d8a74a23186b4671c (ENS: doxuta) to lower gas fee)
+It would be nice if you can send me a coffee to 0x638c613ccad9160a991ebc6d8a74a23186b4671c (ENS: doxuta)(or via [ERC20]0x638c613ccad9160a991ebc6d8a74a23186b4671c (ENS: doxuta) to lower gas fee)
