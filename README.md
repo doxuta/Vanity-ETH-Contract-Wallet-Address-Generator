@@ -1,3 +1,17 @@
+> ### ⚠️ Attribution — this is not my project
+>
+> This repository is a copy of **[vanity-eth-plus](https://github.com/TaoistWorld/Vanity-ETH-Contract-Address-Generator)** by **[TaoistWorld](https://github.com/TaoistWorld)** (`hungpv@taoist.world`), published to npm in March 2022 under the MIT License. **I did not write this code.** I uploaded it here in 2024 as a personal working copy while studying vanity-address mining, and an earlier version of this README had the original author's links stripped out — that was wrong, and this notice restores them.
+>
+> - Original repository: https://github.com/TaoistWorld/Vanity-ETH-Contract-Address-Generator
+> - Original npm package: https://www.npmjs.com/package/vanity-eth-plus
+> - Copyright (c) 2022 Taoist.World — see [LICENSE](LICENSE)
+>
+> If you want this tool, get it from the author, not from me. If you found it useful, their donation address is in the Compatibility section below.
+>
+> — Xuan Tai Doan
+
+---
+
 # Vanity ETH Contract & Wallet Address Generator
 ---
 #### Create billions ERC20 addresses, find vanity wallet addresses you want or any wallet address can proceduce a [vanity ERC20 contract address](https://ethereum.stackexchange.com/questions/760/how-is-the-address-of-an-ethereum-contract-computed) at given nonce
@@ -127,3 +141,5 @@ Contract addr generated when use wallet addr to deploy at given nonce will match
 `It is recommended to test transfer & deploy contract using testnets` like [Binance Smart Chain testnet](https://testnet.binance.org/faucet-smart) or [Sokol](https://faucet.poa.network/) `before use`
 
 It would be nice if you can send me a coffee to 0x638c613ccad9160a991ebc6d8a74a23186b4671c (ENS: doxuta)(or via [ERC20]0x638c613ccad9160a991ebc6d8a74a23186b4671c (ENS: doxuta) to lower gas fee)
+
+It would be nice if you can send the author a coffee to [taoist-world.eth](https://etherscan.io/address/0xfca11210cc837f37b354d4a3b716316375499999) (or via [BSC](https://bscscan.com/address/0xfcA11210CC837F37b354d4A3b716316375499999) to lower gas fee)
